@@ -1,12 +1,32 @@
-# AccuFinder Pro 🤖⚡
+# ⚡ AccuFinder Pro
 
-AI-powered sports accumulator finder using Google Gemini AI.
+AI-Powered Sports Accumulator Finder using Google Gemini AI.
 
-## Features
-- AI-powered accumulator finding
-- Cross-sport analysis
-- Confidence scoring
-- Real-time AI analysis
+## 🚀 Features
 
-## Deployment
-This project is configured for Vercel deployment with Vite.
+- 🤖 AI-powered accumulator finding
+- 📊 Cross-sport analysis (Football, Basketball, Tennis, etc.)
+- 🎯 Confidence scoring with visual indicators
+- ⚡ Real-time AI analysis
+- 📱 Mobile-optimized interface
+
+## 🛠️ Setup
+
+### Prerequisites
+- Gemini API key from [Google AI Studio](https://aistudio.google.com/)
+- GitHub account
+- Vercel account
+
+### Local Development
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
