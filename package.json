@@ -1,0 +1,25 @@
+{
+  "name": "accufinder-pro",
+  "version": "1.0.0",
+  "description": "AI-Powered Sports Accumulator Finder with Gemini AI",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "keywords": [
+    "sports-betting",
+    "ai",
+    "accumulator",
+    "gemini-ai",
+    "betting-tool"
+  ],
+  "author": "AccuFinder",
+  "license": "MIT"
+}
